@@ -29,6 +29,9 @@ python3 Github-Scraping.py
 ## 📷 Demo
 ![alt](https://cdn.discordapp.com/attachments/798276664622317629/798488508233940992/unknown.png)
 
+## 📚 Contributions
+Si vous avez des suggestion pour améliorer venez DM `NAOY#0001`
+
 ## 📝 Contact
 
 Mon discord : `NAOY#0001`  
